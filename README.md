@@ -9,8 +9,7 @@ Welcome! Here are some compilation of activities and project that I created.
 **1. Introduction to Computer Vision and Image Processing**
 
 **Computer Vision**
-- A field of computer science that focuses on enabling computers to identify, interpret, and understand the visual world.
-- It seeks to replicate human vision by converting raw pixel data into a high-level understanding of objects.
+> A field of computer science that focuses on enabling computers to identify, interpret, and understand the visual world. It seeks to replicate human vision by converting raw pixel data into a high-level understanding of objects.
 
 **Roles of Image Processing in AI**
 
@@ -40,7 +39,7 @@ Welcome! Here are some compilation of activities and project that I created.
 >**Automatic Trash Segregation**- is a real-world application of computer vision that automates the sorting of waste materials into categories like plastic, glass, paper, and organic waste. This technology is being implemented in smart recycling systems to increase waste management, reduce human error, and minimize environmental impact.
 
 **Use of Image Processing in Trash Segregation**
-> - **Image Enhancement**: Captured images of waste proceeds to do image processing techniques, such as filtering, which improve the quality of these images by reducing noise and enhancing contrast, making it easier to identify different waste items.
+- **Image Enhancement**: Captured images of waste proceeds to do image processing techniques, such as filtering, which improve the quality of these images by reducing noise and enhancing contrast, making it easier to identify different waste items.
 - **Object Detection and Classification**: Edge detection helps in recognizing boundaries of objects, while Segmentation separates different types of waste into distinct regions of interest. To classify items into categories like plastics, paper, metals, or glass.
 - **Feature Extraction and Classification**: Extract features such as shape, color, and texture. These features are used to classify the waste accurately.  The system might use color information to distinguish between glass and plastic or shape analysis to differentiate between bottles and cans.
 
