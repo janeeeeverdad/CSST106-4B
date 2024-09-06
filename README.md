@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/7a39bb6c-9694-4c8f-8540-1e1532d4ecc7
 
 - **Feature Extraction:** To help identify and isolate important features within an image, such as edges, corners, textures, and patterns. These are essential to classify objects, detect anomalies, or recognize faces.
 
-- **Segmentation:** is the process of dividing an image into meaningful regions, such as identifying individual objects or boundaries within a scene. 
+- **Segmentation:** The process of dividing an image into meaningful regions, such as identifying individual objects or boundaries within a scene. 
 
 - **Edge Detection:** Identifying the edges within an image is for understanding the structure and geometry of objects.
 
@@ -43,6 +43,7 @@ https://github.com/user-attachments/assets/7a39bb6c-9694-4c8f-8540-1e1532d4ecc7
 - **Real-time Processing:** Image processing techniques ensure that the AI system can analyze and classify waste quickly, which is essential for real-time applications in waste management facilities.
 
 **Implementation:**
+
 ![Screenshot 2024-09-06 233641](https://github.com/user-attachments/assets/f4004f0b-d0e4-427a-b027-cf962b131753)
 
 > **Conclusion:** In conclusion, image processing plays a crucial role in AI systems that rely on visual data, as it transforms raw images into structured ones that AI can interpret accurately. Techniques like filtering, edge detection, and segmentation refines the visual inputs, that leads to better feature extraction and classification. Preprocessing steps ensures cleaner data and minimizing errors in decision-making. These methods are useful for real-time applications, enabling AI to process information quickly and accurately.
