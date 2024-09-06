@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/7a39bb6c-9694-4c8f-8540-1e1532d4ecc7
 
 **Implementation:**
 
-``import cv2
+`` import cv2
 import matplotlib.pyplot as plt
 
 image = cv2.imread('bottle.jpeg')  
