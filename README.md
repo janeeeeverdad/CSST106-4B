@@ -7,6 +7,7 @@ Compilation of Activities and Projects for CSST-106 Perception and Computer Visi
 Welcome! Here are some compilation of activities and project that I created.
 
 ## 1.Introduction to Computer Vision and Image Processing
+[Watch the video](https://github.com/janeeeeverdad/CSST106-4B/blob/main/4B-VERDAD-MP1.mp4)
 
 **Computer Vision**
 > A field of computer science that focuses on enabling computers to identify, interpret, and understand the visual world. It seeks to replicate human vision by converting raw pixel data into a high-level understanding of objects.
