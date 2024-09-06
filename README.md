@@ -21,15 +21,12 @@ https://github.com/user-attachments/assets/7a39bb6c-9694-4c8f-8540-1e1532d4ecc7
 **Three Core Techniques**
 
 - **Image Filtering**- Enhances certain features in an image. Filters can smooth out noise, sharpen edges, or detect specific features like edges or corners.
-
 **Example:** In trash segregation systems, filters are used to enhance the visibility of objects (like bottles or cans) by reducing image noise.
 
 - **Edge Detection**- identifies the boundaries between different regions in an image, which is important for object detection and recognition tasks.
-
 **Example:** In trash segregation, edge detection helps the system identify the outlines of recyclable materials like plastics or metals.
 
 - **Image Segmentation**- divides an image into meaningful regions, for understanding the image's content and isolating areas of interest.
-
 **Example:** In trash segregation, it is for separating different types of waste within an image, such as classifying plastics from paper or glass.
 
 **Case Study (Real-World Application)**
@@ -42,11 +39,10 @@ https://github.com/user-attachments/assets/7a39bb6c-9694-4c8f-8540-1e1532d4ecc7
 
 **Challenges Addressed:**
 - **Accuracy in Classification:** Image processing improves the accuracy of waste classification by providing clear, detailed images for AI analysis. Techniques like filtering and edge detection help reduce errors caused by image noise and overlapping objects.
-
 - **Handling Diverse Waste Types:** Waste comes in various forms and conditions. Image segmentation and feature extraction enable the AI to handle diverse types of waste by focusing on specific attributes relevant to classification.
-
 - **Real-time Processing:** Image processing techniques ensure that the AI system can analyze and classify waste quickly, which is essential for real-time applications in waste management facilities.
 
+**Implementation:**
 ![Screenshot 2024-09-06 233641](https://github.com/user-attachments/assets/f4004f0b-d0e4-427a-b027-cf962b131753)
 
 > **Conclusion:** In conclusion, image processing plays a crucial role in AI systems that rely on visual data, as it transforms raw images into structured ones that AI can interpret accurately. Techniques like filtering, edge detection, and segmentation refines the visual inputs, that leads to better feature extraction and classification. Preprocessing steps ensures cleaner data and minimizing errors in decision-making. These methods are useful for real-time applications, enabling AI to process information quickly and accurately.
