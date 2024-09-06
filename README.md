@@ -57,6 +57,7 @@ blurred_image = cv2.GaussianBlur(gray_image, (5, 5), 0)
 
 #Canny Edge Detection
 edges = cv2.Canny(blurred_image, threshold1=100, threshold2=200)
+\```
 
 ![Screenshot 2024-09-06 233641](https://github.com/user-attachments/assets/f4004f0b-d0e4-427a-b027-cf962b131753)
 
