@@ -41,10 +41,8 @@ Welcome! Here are some compilation of activities and project that I created.
 
 **Use of Image Processing in Trash Segregation**
 > - **Image Enhancement**: Captured images of waste proceeds to do image processing techniques, such as filtering, which improve the quality of these images by reducing noise and enhancing contrast, making it easier to identify different waste items.
-
-> - **Object Detection and Classification**: Edge detection helps in recognizing boundaries of objects, while Segmentation separates different types of waste into distinct regions of interest. To classify items into categories like plastics, paper, metals, or glass.
-
-> - **Feature Extraction and Classification**: Extract features such as shape, color, and texture. These features are used to classify the waste accurately.  The system might use color information to distinguish between glass and plastic or shape analysis to differentiate between bottles and cans.
+- **Object Detection and Classification**: Edge detection helps in recognizing boundaries of objects, while Segmentation separates different types of waste into distinct regions of interest. To classify items into categories like plastics, paper, metals, or glass.
+- **Feature Extraction and Classification**: Extract features such as shape, color, and texture. These features are used to classify the waste accurately.  The system might use color information to distinguish between glass and plastic or shape analysis to differentiate between bottles and cans.
 
 **Challenges Addressed:**
 - **Accuracy in Classification:** Image processing improves the accuracy of waste classification by providing clear, detailed images for AI analysis. Techniques like filtering and edge detection help reduce errors caused by image noise and overlapping objects.
