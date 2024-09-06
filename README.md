@@ -43,8 +43,8 @@ https://github.com/user-attachments/assets/7a39bb6c-9694-4c8f-8540-1e1532d4ecc7
 - **Real-time Processing:** Image processing techniques ensure that the AI system can analyze and classify waste quickly, which is essential for real-time applications in waste management facilities.
 
 **Implementation:**
-
-``` import cv2
+```python
+import cv2
 import matplotlib.pyplot as plt
 
 image = cv2.imread('bottle.jpeg')  
