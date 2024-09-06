@@ -48,7 +48,7 @@ Welcome! Here are some compilation of activities and project that I created.
 
 - **Handling Diverse Waste Types:** Waste comes in various forms and conditions. Image segmentation and feature extraction enable the AI to handle diverse types of waste by focusing on specific attributes relevant to classification.
 
-- **Real-time Processing:** Efficient image processing techniques ensure that the AI system can analyze and classify waste quickly, which is essential for real-time applications in waste management facilities.
+- **Real-time Processing:** Image processing techniques ensure that the AI system can analyze and classify waste quickly, which is essential for real-time applications in waste management facilities.
 
 
 > **Conclusion:** In conclusion, image processing plays a crucial role in AI systems that rely on visual data, as it transforms raw images into structured ones that AI can interpret accurately. Techniques like filtering, edge detection, and segmentation refines the visual inputs, that leads to better feature extraction and classification. Preprocessing steps ensures cleaner data and minimizing errors in decision-making. These methods are useful for real-time applications, enabling AI to process information quickly and accurately.
