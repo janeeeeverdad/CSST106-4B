@@ -40,11 +40,11 @@ Welcome! Here are some compilation of activities and project that I created.
 >**Automatic Trash Segregation**- is a real-world application of computer vision that automates the sorting of waste materials into categories like plastic, glass, paper, and organic waste. This technology is being implemented in smart recycling systems to increase waste management, reduce human error, and minimize environmental impact.
 
 **Use of Image Processing in Trash Segregation**
-- **Image Enhancement**: Captured images of waste proceeds to do image processing techniques, such as filtering, which improve the quality of these images by reducing noise and enhancing contrast, making it easier to identify different waste items.
+> - **Image Enhancement**: Captured images of waste proceeds to do image processing techniques, such as filtering, which improve the quality of these images by reducing noise and enhancing contrast, making it easier to identify different waste items.
 
-- **Object Detection and Classification**: Edge detection helps in recognizing boundaries of objects, while Segmentation separates different types of waste into distinct regions of interest. To classify items into categories like plastics, paper, metals, or glass.
+> - **Object Detection and Classification**: Edge detection helps in recognizing boundaries of objects, while Segmentation separates different types of waste into distinct regions of interest. To classify items into categories like plastics, paper, metals, or glass.
 
-- **Feature Extraction and Classification**: Extract features such as shape, color, and texture. These features are used to classify the waste accurately.  The system might use color information to distinguish between glass and plastic or shape analysis to differentiate between bottles and cans.
+> - **Feature Extraction and Classification**: Extract features such as shape, color, and texture. These features are used to classify the waste accurately.  The system might use color information to distinguish between glass and plastic or shape analysis to differentiate between bottles and cans.
 
 **Challenges Addressed:**
 - **Accuracy in Classification:** Image processing improves the accuracy of waste classification by providing clear, detailed images for AI analysis. Techniques like filtering and edge detection help reduce errors caused by image noise and overlapping objects.
@@ -54,9 +54,11 @@ Welcome! Here are some compilation of activities and project that I created.
 - **Real-time Processing:** Efficient image processing techniques ensure that the AI system can analyze and classify waste quickly, which is essential for real-time applications in waste management facilities.
 
 
-**Conclusion:**
+> **Conclusion:** In conclusion, image processing plays a crucial role in AI systems that rely on visual data, as it transforms raw images into structured ones that AI can interpret accurately. Techniques like filtering, edge detection, and segmentation refines the visual inputs, that leads to better feature extraction and classification. Preprocessing steps ensures cleaner data and minimizing errors in decision-making. These methods are useful for real-time applications, enabling AI to process information quickly and accurately.
 
-**Reflection:**
+> **Reflection:** The activity of understanding and implementing image processing provided insights into the practical application of techniques like filtering, edge detection, and segmentation. It demonstrated how image processing integrates with AI systems, to address real-world challenges such as waste sorting and classification. 
+
+
 
 
 
