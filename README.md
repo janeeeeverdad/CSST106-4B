@@ -56,15 +56,9 @@ gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 blurred_image = cv2.GaussianBlur(gray_image, (5, 5), 0)
 
 #Canny Edge Detection
-edges = cv2.Canny(blurred_image, threshold1=100, threshold2=200) ```
-
-
-
+edges = cv2.Canny(blurred_image, threshold1=100, threshold2=200)
 
 ![Screenshot 2024-09-06 233641](https://github.com/user-attachments/assets/f4004f0b-d0e4-427a-b027-cf962b131753)
-
-
-
 
 > **Conclusion:** In conclusion, image processing plays a crucial role in AI systems that rely on visual data, as it transforms raw images into structured ones that AI can interpret accurately. Techniques like filtering, edge detection, and segmentation refines the visual inputs, that leads to better feature extraction and classification. Preprocessing steps ensures cleaner data and minimizing errors in decision-making. These methods are useful for real-time applications, enabling AI to process information quickly and accurately.
 
