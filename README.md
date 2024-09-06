@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/7a39bb6c-9694-4c8f-8540-1e1532d4ecc7
 
 **Implementation:**
 
-`` import cv2
+``` import cv2
 import matplotlib.pyplot as plt
 
 image = cv2.imread('bottle.jpeg')  
@@ -56,7 +56,7 @@ gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 blurred_image = cv2.GaussianBlur(gray_image, (5, 5), 0)
 
 #Canny Edge Detection
-edges = cv2.Canny(blurred_image, threshold1=100, threshold2=200) ``
+edges = cv2.Canny(blurred_image, threshold1=100, threshold2=200) ```
 
 ![Screenshot 2024-09-06 233641](https://github.com/user-attachments/assets/f4004f0b-d0e4-427a-b027-cf962b131753)
 
