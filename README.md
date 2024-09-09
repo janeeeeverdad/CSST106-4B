@@ -53,6 +53,8 @@ https://github.com/user-attachments/assets/7a39bb6c-9694-4c8f-8540-1e1532d4ecc7
 
 > **Reflection:** The activity of understanding and implementing image processing provided insights into the practical application of techniques like filtering, edge detection, and segmentation. It demonstrated how image processing integrates with AI systems, to address real-world challenges such as waste sorting and classification. 
 
+## 2.Exercise1:Image Processing Techniques
+[Exercise 1](https://colab.research.google.com/drive/1vpu-mclJDewF94DGSM31ID1e4Gpos4d5#scrollTo=fJGm27XxwOdL)
 
 
 
