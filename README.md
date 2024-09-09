@@ -87,7 +87,8 @@ plt.title('Edges Detected')
 plt.imshow(edges, cmap='gray')
 plt.axis('off')
 
-plt.show() ```
+plt.show()
+```
 
 > **Conclusion:** In conclusion, image processing plays a crucial role in AI systems that rely on visual data, as it transforms raw images into structured ones that AI can interpret accurately. Techniques like filtering, edge detection, and segmentation refines the visual inputs, that leads to better feature extraction and classification. Preprocessing steps ensures cleaner data and minimizing errors in decision-making. These methods are useful for real-time applications, enabling AI to process information quickly and accurately.
 
