@@ -49,6 +49,46 @@ https://github.com/user-attachments/assets/7a39bb6c-9694-4c8f-8540-1e1532d4ecc7
 
 ![Screenshot 2024-09-06 233641](https://github.com/user-attachments/assets/f4004f0b-d0e4-427a-b027-cf962b131753)
 
+Sample Code:
+```python
+import cv2
+import matplotlib.pyplot as plt
+
+image = cv2.imread('bottle.jpeg')
+
+#Convert to grayscale
+gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+
+#Gaussian Blur to reduce noise
+blurred_image = cv2.GaussianBlur(gray_image, (5, 5), 0)
+
+#Canny Edge Detection
+edges = cv2.Canny(blurred_image, threshold1=100, threshold2=200)
+
+plt.figure(figsize=(10, 8))
+
+plt.subplot(2, 2, 1)
+plt.title('Original Image')
+plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
+plt.axis('off')
+
+plt.subplot(2, 2, 2)
+plt.title('Grayscale Image')
+plt.imshow(gray_image, cmap='gray')
+plt.axis('off')
+
+plt.subplot(2, 2, 3)
+plt.title('Blurred Image')
+plt.imshow(blurred_image, cmap='gray')
+plt.axis('off')
+
+plt.subplot(2, 2, 4)
+plt.title('Edges Detected')
+plt.imshow(edges, cmap='gray')
+plt.axis('off')
+
+plt.show() ```
+
 > **Conclusion:** In conclusion, image processing plays a crucial role in AI systems that rely on visual data, as it transforms raw images into structured ones that AI can interpret accurately. Techniques like filtering, edge detection, and segmentation refines the visual inputs, that leads to better feature extraction and classification. Preprocessing steps ensures cleaner data and minimizing errors in decision-making. These methods are useful for real-time applications, enabling AI to process information quickly and accurately.
 
 > **Reflection:** The activity of understanding and implementing image processing provided insights into the practical application of techniques like filtering, edge detection, and segmentation. It demonstrated how image processing integrates with AI systems, to address real-world challenges such as waste sorting and classification. 
