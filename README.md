@@ -94,7 +94,7 @@ plt.show()
 
 > **Reflection:** The activity of understanding and implementing image processing provided insights into the practical application of techniques like filtering, edge detection, and segmentation. It demonstrated how image processing integrates with AI systems, to address real-world challenges such as waste sorting and classification. 
 
-## 2.[Exercise 1: Image Processing Techniques](https://colab.research.google.com/drive/1vpu-mclJDewF94DGSM31ID1e4Gpos4d5#scrollTo=fJGm27XxwOdL)
+## 2.[Exercise 1: Image Processing Techniques](https://colab.research.google.com/drive/1vpu-mclJDewF94DGSM31ID1e4Gpos4d5#scrollTo=YuArdsiCwIR0)
 
 
 
