@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/7a39bb6c-9694-4c8f-8540-1e1532d4ecc7
 ## 3. [Applying Image Processing Techniques]()
 ## 4. [Feature Extraction and Object Detection]()
 
-## 5. [Advanced Feature Extraction and Object Detection]()
+## 5. [Advanced Feature Extraction and Object Detection](https://github.com/janeeeeverdad/CSST106-4B/tree/main/4B-VERDAD-EXER3)
 
 
 
